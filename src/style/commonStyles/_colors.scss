@@ -1,0 +1,15 @@
+$colors: (
+  'mainBg': #f8f8f7,
+  'primary': #ffffff,
+  'mainText': #1d1d1d,
+  'primaryText': #8c8c8c,
+  'buttonInfo': #ff868e,
+  'buttonBg': #fbe0dc,
+  'imageHover': rgba(255, 134, 142, 0.6),
+  'likesBg': #97eab9,
+  'likesHover': rgba(151, 234, 185, 0.3),
+);
+
+@function getColor($key) {
+  @return map-get($colors, $key);
+}

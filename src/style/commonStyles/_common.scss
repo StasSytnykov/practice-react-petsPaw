@@ -1,0 +1,10 @@
+@import-normalize;
+@import 'colors';
+
+body {
+  font-family: 'Jost', sans-serif;
+}
+
+.app {
+  background-color: getColor('mainBg');
+}
