@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practice-react-petsPaw/static/css/main.073c9b0a.css",
+    "main.js": "/practice-react-petsPaw/static/js/main.2354460d.js",
+    "static/js/787.e6abfc61.chunk.js": "/practice-react-petsPaw/static/js/787.e6abfc61.chunk.js",
+    "static/media/logo.svg": "/practice-react-petsPaw/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practice-react-petsPaw/index.html",
+    "main.073c9b0a.css.map": "/practice-react-petsPaw/static/css/main.073c9b0a.css.map",
+    "main.2354460d.js.map": "/practice-react-petsPaw/static/js/main.2354460d.js.map",
+    "787.e6abfc61.chunk.js.map": "/practice-react-petsPaw/static/js/787.e6abfc61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2354460d.js"
+  ]
+}
